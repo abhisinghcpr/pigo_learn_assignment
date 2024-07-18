@@ -1,0 +1,287 @@
+{
+  "project_info": {
+    "project_number": "736381078339",
+    "firebase_url": "https://flutter-tests-bbe7e-default-rtdb.firebaseio.com",
+    "project_id": "flutter-tests-bbe7e",
+    "storage_bucket": "flutter-tests-bbe7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:9f01b64f625fe15bd7bdf6",
+        "android_client_info": {
+          "package_name": "com.edugaon.all_topics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736381078339-ruivcr29elbaj86cen6f2simtupuofgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edugaon.all_topics",
+            "certificate_hash": "629e351074d3d4c51ad9fddb0fa26a299add97fc"
+          }
+        },
+        {
+          "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736381078339-5ocen9o5msd8hlb1ntjnaujbhinpcf7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.allTopics.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:61e1f5e433b122e3d7bdf6",
+        "android_client_info": {
+          "package_name": "com.edugaon.flutter_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736381078339-5ocen9o5msd8hlb1ntjnaujbhinpcf7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.allTopics.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:f70778cd4a584db4d7bdf6",
+        "android_client_info": {
+          "package_name": "com.edugaon.flutter_test_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736381078339-ob1bl38gmjkpqf03c0pva9mfvpbisp9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edugaon.flutter_test_one",
+            "certificate_hash": "629e351074d3d4c51ad9fddb0fa26a299add97fc"
+          }
+        },
+        {
+          "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736381078339-5ocen9o5msd8hlb1ntjnaujbhinpcf7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.allTopics.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:f85595f9dfd3ca30d7bdf6",
+        "android_client_info": {
+          "package_name": "com.edugaon.shoppie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736381078339-5ocen9o5msd8hlb1ntjnaujbhinpcf7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.allTopics.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:6f703a8bc36476c2d7bdf6",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736381078339-5ocen9o5msd8hlb1ntjnaujbhinpcf7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.allTopics.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:e64c93503a208310d7bdf6",
+        "android_client_info": {
+          "package_name": "com.example.tiktaktoe_multiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736381078339-fkedmjid4iaemk5t7978e0t0nf35caap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiktaktoe_multiplayer",
+            "certificate_hash": "629e351074d3d4c51ad9fddb0fa26a299add97fc"
+          }
+        },
+        {
+          "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736381078339-5ocen9o5msd8hlb1ntjnaujbhinpcf7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.allTopics.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:c39d9f5d500ac951d7bdf6",
+        "android_client_info": {
+          "package_name": "com.flutter.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736381078339-4e6h2td97s8se4rij5vqg0c5tob2qj65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736381078339-5ocen9o5msd8hlb1ntjnaujbhinpcf7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.allTopics.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
