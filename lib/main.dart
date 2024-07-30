@@ -8,6 +8,7 @@ import 'package:provider/provider.dart';
 import 'controller/provider/auth_provider.dart';
 import 'controller/provider/product_provider.dart';
 import 'firebase_options.dart';
+import 'get.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

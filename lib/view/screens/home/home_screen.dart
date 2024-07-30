@@ -17,14 +17,14 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
-    final screenWidth = MediaQuery.of(context).size.width;
-
+    double screenWidth = MediaQuery.of(context).size.width; // Get the screen width dynamically
     int columns = 2;
     if (screenWidth > 600) {
       columns = 3;
     } else if (screenWidth > 900) {
       columns = 4;
     }
+
     return Scaffold(
       backgroundColor: AppColors.backgroundColor,
       appBar: AppBar(
@@ -45,15 +45,19 @@ class _HomePageState extends State<HomePage> {
               return [
                 PopupMenuItem(
                   child: const Text("Logout"),
-
-                  onTap: () async{
-                   await FirebaseAuth.instance.signOut();
-                   Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => LoginPage(),));
+                  onTap: () async {
+                    await FirebaseAuth.instance.signOut();
+                    Navigator.pushReplacement(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => LoginPage(),
+                      ),
+                    );
                   },
-                )
+                ),
               ];
             },
-          )
+          ),
         ],
         backgroundColor: AppColors.primaryColor,
       ),
@@ -86,5 +90,3 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
-
-

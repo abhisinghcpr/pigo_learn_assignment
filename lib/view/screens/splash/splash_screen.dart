@@ -2,10 +2,10 @@ import 'dart:async';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_task/view/screens/auth/login/login_screen.dart';
-import 'package:flutter_task/view/screens/auth/signup/signup_screen.dart';
-import 'package:flutter_task/view/screens/home/home_screen.dart';
 import 'package:flutter_task/view/utils/colors/app_color.dart';
+import '../auth/login/login_screen.dart';
+import '../auth/signup/signup_screen.dart';
+import '../home/home_screen.dart';
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
 
@@ -41,6 +41,7 @@ class _SplashScreenState extends State<SplashScreen> {
     Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => screen,));
   }
 
+
   void checkUser(BuildContext context) async{
 
     bool ifExists = FirebaseAuth.instance.currentUser?.uid != null;
@@ -48,12 +49,14 @@ class _SplashScreenState extends State<SplashScreen> {
 
     if(ifExists){
       navigateUser(context, screen: HomePage());
-    }else{
+    }
+    else{
       String? userId = FirebaseAuth.instance.currentUser?.uid;
       var userData = await FirebaseFirestore.instance.collection('users').doc(userId).get();
       if(userData.exists){
         navigateUser(context, screen: LoginPage());
-      }else{
+      }
+      else{
         navigateUser(context, screen: SignupPage());
       }
     }

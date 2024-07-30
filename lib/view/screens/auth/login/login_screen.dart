@@ -105,6 +105,7 @@ class LoginPage extends StatelessWidget {
                   linkText: 'SignUp',
                   Navigate: SignupPage(),
                 ),
+
                 const Spacer(
                   flex: 1,
                 ),

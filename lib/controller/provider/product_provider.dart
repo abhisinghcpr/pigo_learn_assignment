@@ -29,6 +29,8 @@ class ProductProvider with ChangeNotifier {
           .toList();
     } else {
       throw Exception('Failed to load products');
+
+
     }
 
     _isLoading = false;
@@ -49,3 +51,5 @@ class ProductProvider with ChangeNotifier {
     );
   }
 }
+
+

@@ -4,6 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../../../../model/products_model.dart';
 import '../../../utils/colors/app_color.dart';
+
+
+
 class ProductDetails extends StatelessWidget {
   final Product product;
   final bool showDiscountPrice;
@@ -148,3 +151,5 @@ class ProductDetails extends StatelessWidget {
     );
   }
 }
+
+
