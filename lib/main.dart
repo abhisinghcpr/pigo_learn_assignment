@@ -34,6 +34,7 @@ class MyApp extends StatelessWidget {
             primarySwatch: Colors.blue,
 
             appBarTheme: const AppBarTheme(
+
               titleSpacing: 30,
                 systemOverlayStyle: SystemUiOverlayStyle.dark,
                 backgroundColor: AppColors.backgroundColor),
@@ -45,3 +46,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
